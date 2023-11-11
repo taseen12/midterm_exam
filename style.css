@@ -149,7 +149,12 @@
     text-align: center;
     margin-top: 50px;
 }
-
+.new_guitar_images{
+    display: flex;
+    
+    justify-content: space-around;
+    padding: 20px 30px;
+}
 .new_guitar_image{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
