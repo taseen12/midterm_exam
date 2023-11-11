@@ -32,6 +32,7 @@
     padding: 0px 10px;
     font-size: 18px;
     font-weight: 500;
+    font-family: 'Roboto', sans-serif;
 
 }
 .navmenu li a:hover{
@@ -321,6 +322,7 @@ border-right: #e2efe2
 }
 .c_headlines1 h1{
     text-align: center;
+    /* font-family */
 }
 .online{
     margin-top: 50px;
