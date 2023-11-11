@@ -125,3 +125,44 @@
     font-size: 36px;
     margin-top: 10px; /* Adjust as needed */
 }
+
+.headline h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.new_guitar_image{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 30px;
+}
+.new_images{
+    /* display: flex; */
+    /* border-style: solid; */
+    /* background-color: antiquewhite; */
+}
+
+.new_images p1{
+    /* width: 320px; */
+    font-size: 20px;
+    text-align: center;
+    color:#0b910b;
+    /* border-bottom: #072019; */
+    /* border-style: solid; */
+}
+.new_images p2{
+    width: 320px;
+    font-size: 20px;
+    text-align: center;
+    color:#0b910b;
+    /* border-style: solid; */
+}
+.new_images i{
+    border-style: solid;
+}
+
+
+.new_images img{
+    width: 320px;
+    height: 500px;
+}
